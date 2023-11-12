@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Moknine Elhadj</h1>
 <h3 align="center">frontend developer from Algeria . I make a seamless web application with great UI/UX helps users accomplish what they need to do, and i have strong combination of technical ability and creativity.Passionate about learning and development with a desire to apply skills on a larger development team at a big company. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. </h3>
-<img with='400' style={border-radius:'50%'} align='right' src='https://thumbs.dreamstime.com/z/african-american-boy-writes-code-programming-education-children-cartoon-style-programmer-coding-developing-software-290695451.jpg?w=50' alt='image' />
+<img with='300px' height='300px' style='border-radius:50px;' align='right' src='https://thumbs.dreamstime.com/z/african-american-boy-writes-code-programming-education-children-cartoon-style-programmer-coding-developing-software-290695451.jpg?w=50' alt='image' />
 
 
 <h3 align="left">Connect with me:</h3>
