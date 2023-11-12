@@ -3,7 +3,7 @@
 [![MasterHead](https://imgs.search.brave.com/YAZu3wvM5CP3SCiKAKJ6Ql6KvoSj99YeqMsWV8nY7Ig/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wcm9n/cmFtbWluZy1iYW5u/ZXItY29uY2VwdC1w/cm9ncmFtbWluZy1i/YW5uZXItY29uY2Vw/dC12ZWN0b3ItaWxs/dXN0cmF0aW9uLWxp/bmUtd2ViLWRlc2ln/bi0xMTYzMzE3MTMu/anBn)
 
 <h1 align="center">Hi 👋, I'm Moknine Elhadj</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">frontend developer from Algeria . I make a seamless web application with great UI/UX helps users accomplish what they need to do, and i have strong combination of technical ability and creativity.Passionate about learning and development with a desire to apply skills on a larger development team at a big company. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. </h3>
 <img with='400' style={border-radius:'50%'} align='right' src='https://thumbs.dreamstime.com/z/african-american-boy-writes-code-programming-education-children-cartoon-style-programmer-coding-developing-software-290695451.jpg?w=50' alt='image' />
 
 
